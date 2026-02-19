@@ -86,9 +86,7 @@ costco-financial-analysis/
 ├── presentation/
 │   └── Costco Financial PPT.pdf           ← 📊 Investor Pitch Deck
 │
-├── miscellaneous/
-│   └── Causal Inference Analysis Report.docx (Archived)
-│    
+
 ├── LICENSE                                ← MIT License
 └── README.md                              ← Project documentation
 ```
