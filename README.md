@@ -37,11 +37,11 @@ Costco Wholesale Corp. (NASDAQ: COST) operates a membership-only warehouse club 
 graph TD
     Center[Costco Competitive Position]
     
-    Threat1[HIGH Threat of New Entrants<br/>(Capital Intensive/Scale Barriers)] --> Center
-    Threat2[MEDIUM Threat of Substitutes<br/>(Amazon/eCommerce)] --> Center
-    Threat3[LOW Supplier Power<br/>(Costco Volume Leverage)] --> Center
-    Threat4[LOW Buyer Power<br/>(Membership Lock-in)] --> Center
-    Threat5[HIGH Competitive Rivalry<br/>(Walmart/Sam's Club/Target)] --> Center
+    Threat1["HIGH Threat of New Entrants<br/>(Capital Intensive/Scale Barriers)"] --> Center
+    Threat2["MEDIUM Threat of Substitutes<br/>(Amazon/eCommerce)"] --> Center
+    Threat3["LOW Supplier Power<br/>(Costco Volume Leverage)"] --> Center
+    Threat4["LOW Buyer Power<br/>(Membership Lock-in)"] --> Center
+    Threat5["HIGH Competitive Rivalry<br/>(Walmart/Sam's Club/Target)"] --> Center
     
     style Center fill:#e74c3c,stroke:#c0392b,color:#fff
     style Threat1 fill:#f1c40f,stroke:#f39c12
