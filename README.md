@@ -1,3 +1,5 @@
+[![Check Markdown Links](https://github.com/khushi2704rj-sephora/costco-financial-analysis-/actions/workflows/link-check.yml/badge.svg)](https://github.com/khushi2704rj-sephora/costco-financial-analysis-/actions/workflows/link-check.yml)
+
 <div align="center">
 
 # 🛒 Costco Wholesale Corporation (COST): Financial & Strategic Analysis
