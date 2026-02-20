@@ -14,6 +14,10 @@
 
 [📄 **Read the Full Financial Analysis**](reports/Costco%20Financial%20Analysis.docx) · [📊 **View Presentation**](presentation/Costco%20Financial%20PPT.pdf)
 
+---
+
+[🎯 Summary](#-executive-summary) · [🏗️ Strategy](#️-strategic-framework) · [📊 Financials](#-financial-highlights) · [📂 Structure](#-repository-structure) · [🤝 Contributing](#-contributing)
+
 </div>
 
 ---
@@ -67,12 +71,35 @@ graph TD
 
 ## 📊 Financial Highlights
 
+### Key Metrics (FY2021–FY2025)
+
+| Metric | FY2021 | FY2023 | FY2025E | Trend |
+|---|---|---|---|---|
+| **Revenue** | $192B | $237B | $270B | 📈 +41% |
+| **Net Income** | $5.0B | $6.3B | $7.4B | 📈 +48% |
+| **Membership Revenue** | $3.9B | $4.6B | $5.1B | 📈 +31% |
+| **Renewal Rate** | 91% | 92.5% | 93% | ✅ Stable |
+| **Inventory Turnover** | 12.5x | 11.8x | 12.2x | ✅ Industry-leading |
+| **ROIC** | 22% | 25% | 27% | 📈 Strong |
+| **P/E Ratio** | 40x | 48x | 55x | ⚠️ Premium valuation |
+
+### Valuation Approach
+
 The valuation model includes:
 1.  **Discounted Cash Flow (DCF):** Projected free cash flows over 5 years.
 2.  **Ratio Analysis:**
     -   **Inventory Turnover:** Significantly higher than peers due to SKU discipline.
     -   **ROIC (Return on Invested Capital):** Demonstrates efficient capital deployment.
 3.  **Comparable Analysis (Comps):** Benchmarked against Walmart (WMT), Target (TGT), and BJ's (BJ).
+
+### Peer Comparison
+
+| Company | P/E | Inv. Turnover | Membership Model |
+|---|---|---|---|
+| **Costco (COST)** | 55x | 12.2x | ✅ Yes |
+| Walmart (WMT) | 32x | 8.5x | ❌ No |
+| Target (TGT) | 18x | 6.1x | ❌ No |
+| BJ's (BJ) | 22x | 10.1x | ✅ Yes |
 
 ---
 
@@ -105,6 +132,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 <div align="center">
 
-**Built with ❤️ for Finance**
+### 👩‍💻 Author
+
+**Khushi Kothari**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khushi2704rj-sephora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kothari--/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khushi2704.ak@gmail.com)
+
+*MSc Business Analytics · Financial Modeling & Equity Research*
 
 </div>
