@@ -2,6 +2,13 @@
 
 <div align="center">
 
+<img src="assets/banner.svg" alt="Banner" width="100%">
+
+</div>
+
+
+<div align="center">
+
 # 🛒 Costco Wholesale Corporation (COST): Financial & Strategic Analysis
 
 [![Finance](https://img.shields.io/badge/Analysis-Financial_Modeling-blue?logo=google-sheets&logoColor=white)]()
